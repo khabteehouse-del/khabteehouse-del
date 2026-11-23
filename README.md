@@ -24,10 +24,10 @@ RAG platform that answers from uploaded documents with citations, with role-base
 **[BizBuzz Lead Qualification](https://github.com/khabteehouse-del/bizbuzz-lead-qualification)** (runs behind the BizBuzz website)
 Lead pipeline: Gemini scores each lead, HubSpot and Supabase store it, Langfuse traces it. Includes spam and prompt-injection safeguards.
 
-**[DentiVue](https://github.com/khabteehouse-del/dentivue)** ([preview](https://dentivue.vercel.app), in testing)
+**DentiVue** ([preview](https://dentivue.vercel.app), in testing, private repository)
 Multi-clinic dental consultation tool for previewing smile options. Consent recorded, non-diagnostic.
 
-**[Mizar](https://github.com/khabteehouse-del/mizar)** (in testing)
+**Mizar** (in testing, private repository)
 Voice-first AI business assistant that answers missed calls and messages for service businesses and delivers leads to a mobile app.
 
 Each project's README says what is implemented and what is still planned.
