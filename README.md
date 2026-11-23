@@ -12,14 +12,23 @@ Based in Karachi, Pakistan. Open to remote roles, the Middle East and global.
 
 ## Projects
 
-| Project | What it is | Live | Status |
-|---|---|---|---|
-| [FluxorX](https://github.com/khabteehouse-del/fluxorx) | Enterprise AI command center. Fixed database queries answer the core business questions, and Claude handles open-ended ones. Langfuse tracing and an 8-tool MCP server. | [Demo](https://fluxorx.vercel.app) (access on request) | Live demo |
-| [VeriDoc](https://github.com/khabteehouse-del/veridoc) | Contract review agent built with LangGraph: extracts clauses, assesses risk, writes a summary, and checks citations with a bounded retry. | [Demo](https://veridoc-two.vercel.app) | Live demo |
-| [PulsarIQ](https://github.com/khabteehouse-del/pulsariq) | RAG platform that answers from uploaded documents with citations, with role-based access on Supabase. Designed for self-hosted deployment. | [Demo](https://pulsariq.vercel.app) | Live demo |
-| [BizBuzz Lead Qualification](https://github.com/khabteehouse-del/bizbuzz-lead-qualification) | Lead pipeline: Gemini scores each lead, HubSpot and Supabase store it, Langfuse traces it. Includes spam and prompt-injection safeguards. | Runs behind the BizBuzz website | In production on one lead source |
-| [DentiVue](https://github.com/khabteehouse-del/dentivue) | Multi-clinic dental consultation tool for previewing smile options. Consent recorded, non-diagnostic. | [Preview](https://dentivue.vercel.app) | In testing |
-| [Mizar](https://github.com/khabteehouse-del/mizar) | Voice-first AI business assistant that answers missed calls and messages for service businesses and delivers leads to a mobile app. | None | In testing |
+**[FluxorX](https://github.com/khabteehouse-del/fluxorx)** ([demo](https://fluxorx.vercel.app), access on request)
+Enterprise AI command center. Fixed database queries answer the core business questions, and Claude handles open-ended ones. Langfuse tracing and an 8-tool MCP server.
+
+**[VeriDoc](https://github.com/khabteehouse-del/veridoc)** ([demo](https://veridoc-two.vercel.app))
+Contract review agent built with LangGraph. It extracts clauses, assesses risk, writes a summary, and checks citations with a bounded retry.
+
+**[PulsarIQ](https://github.com/khabteehouse-del/pulsariq)** ([demo](https://pulsariq.vercel.app))
+RAG platform that answers from uploaded documents with citations, with role-based access on Supabase. Designed for self-hosted deployment.
+
+**[BizBuzz Lead Qualification](https://github.com/khabteehouse-del/bizbuzz-lead-qualification)** (runs behind the BizBuzz website)
+Lead pipeline: Gemini scores each lead, HubSpot and Supabase store it, Langfuse traces it. Includes spam and prompt-injection safeguards.
+
+**[DentiVue](https://github.com/khabteehouse-del/dentivue)** ([preview](https://dentivue.vercel.app), in testing)
+Multi-clinic dental consultation tool for previewing smile options. Consent recorded, non-diagnostic.
+
+**[Mizar](https://github.com/khabteehouse-del/mizar)** (in testing)
+Voice-first AI business assistant that answers missed calls and messages for service businesses and delivers leads to a mobile app.
 
 Each project's README says what is implemented and what is still planned.
 
